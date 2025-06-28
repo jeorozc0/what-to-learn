@@ -14,7 +14,7 @@ export default function LanguagesCard() {
   ]
 
   return (
-    <div className="flex flex-col h-screen bg-black overflow-hidden">
+    <div className="flex flex-col h-dvh bg-black overflow-hidden">
 
       <div className="flex flex-col flex-grow w-full lg:w-md xl:w-md mx-auto px-6 py-8 md:py-12">
 
